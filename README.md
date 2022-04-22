@@ -6,3 +6,5 @@ un contenu religieux comprenant (lecture coranique, preche, cours ...)
 
 L'architecture du projet sera base sur un router principale vers lequel toutes les requetes url seront redirigees.
 Ce sera donc au routeur de trouver le bon chemin vers la bonne page demandees ou la bonne requetes en base.
+
+Ici notre routeur sera le fichier index.php, entre autre on redefinira certains regle au niveau serveur a travers le fichier .htaccess
